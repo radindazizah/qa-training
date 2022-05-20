@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_HOME  LIFESTYLE_js-arrow js-arrow-dark</name>
+   <tag></tag>
+   <elementGuidId>061029b2-e4d4-4e40-831a-ed37d72c0098</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.js-arrow.js-arrow-dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='seg-bar__utils']/li/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>04dd510f-13ae-40ef-bd3a-85a10ad3a07a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-arrow js-arrow-dark</value>
+      <webElementGuid>de399515-6ba8-473f-8743-3f7afdfa8648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seg-bar__utils&quot;)/li[@class=&quot;pll&quot;]/div[@class=&quot;account-menu__popup txtLeft  b-header-shadow js-custom-popup b-header__nonclickable&quot;]/span[@class=&quot;js-arrow js-arrow-dark&quot;]</value>
+      <webElementGuid>7ea8aac6-c6b1-4601-8192-5e05e6c40e25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='seg-bar__utils']/li/div/span</value>
+      <webElementGuid>96bf37e4-39cb-4560-a85e-7dfa7e752095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span</value>
+      <webElementGuid>96216896-9d08-450c-b7da-e5955d365195</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

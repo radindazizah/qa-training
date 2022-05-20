@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Pria</name>
+   <tag></tag>
+   <elementGuidId>06e3021f-d702-46dd-882f-29ef959ad87c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='RegistrationForm_gender']/label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>0b94f12c-0bc9-4353-8859-0bd69e8676a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radioLabel radiobutton__container</value>
+      <webElementGuid>e5a522d0-a038-4d92-81b1-5f1b066397c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pria</value>
+      <webElementGuid>2083301a-849d-46b5-8c11-2f49ebac974c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RegistrationForm_gender&quot;)/label[@class=&quot;radioLabel radiobutton__container&quot;]</value>
+      <webElementGuid>09575259-e4f0-4689-85a5-4f9d6d4d25f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='RegistrationForm_gender']/label[2]</value>
+      <webElementGuid>034815c6-5757-47e6-a032-7854f67f9c86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wanita'])[1]/following::label[1]</value>
+      <webElementGuid>c10a391c-a45b-44d4-9be6-cd2bd18124c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih jenis kelamin'])[1]/preceding::label[1]</value>
+      <webElementGuid>6380a1f7-7546-4083-a2da-b4e3e04d10ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Depan'])[1]/preceding::label[1]</value>
+      <webElementGuid>b9a0c27d-26e9-43c7-94da-f8c030a8dfcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/label[2]</value>
+      <webElementGuid>6ffab4a5-1f47-4b09-8fa1-22f2b1ead95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Pria' or . = 'Pria')]</value>
+      <webElementGuid>35fea90f-8bff-4334-b5df-b81f4520f900</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

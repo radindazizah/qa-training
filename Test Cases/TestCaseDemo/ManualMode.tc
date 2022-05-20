@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>39bbbe88-b6b8-4ad3-96d8-1d8f3353b3c0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d7e48dc-e85e-4c8a-a176-4a2abf8d25fa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5622a6f8-e359-4958-8318-e62b34b632ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e5b1fa0-6cc1-42fb-884e-61f569b8faf4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.tokopedia.com/'</defaultValue>
+      <description></description>
+      <id>1d7e48dc-e85e-4c8a-a176-4a2abf8d25fa</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Madu Al Shifa'</defaultValue>
+      <description></description>
+      <id>5622a6f8-e359-4958-8318-e62b34b632ce</id>
+      <masked>false</masked>
+      <name>Search</name>
+   </variable>
+   <variable>
+      <defaultValue>'madu al shifa'</defaultValue>
+      <description></description>
+      <id>1e5b1fa0-6cc1-42fb-884e-61f569b8faf4</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Bukalapak</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f85473f5-9076-4510-9cab-f85fc5b00be3</testSuiteGuid>
+   <testCaseLink>
+      <guid>6e90306f-4015-43f2-b098-33b82e70b31b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DDTest/RegisterBukalapak</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>db9fed9a-40be-4546-822f-49ca44fb9f63</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Bukalapak</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>db9fed9a-40be-4546-822f-49ca44fb9f63</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nohp</value>
+         <variableId>276d4bd0-3e20-4836-97b1-87e14f15ea18</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>db9fed9a-40be-4546-822f-49ca44fb9f63</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>kode</value>
+         <variableId>e9d1f842-8540-4b40-bb6a-fb17d6b2d9b1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

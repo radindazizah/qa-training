@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Lainnya__3J9t8 fs-exclude</name>
+   <tag></tag>
+   <elementGuidId>5dd43282-b7d8-4e53-ab20-235069ed5ea8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div[2]/div[11]/span/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img._3J9t8.fs-exclude</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>474036f4-00c4-472e-8560-866186953a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_3J9t8 fs-exclude</value>
+      <webElementGuid>3bc31aaf-f4d5-4cf3-889f-3b0db4f7abd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//simg-ssl.duolingo.com/avatar/default_2/medium</value>
+      <webElementGuid>57df6c7b-b6c2-4188-879a-b1cbfa6ec365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;_1kJpR _3g2C1&quot;]/div[@class=&quot;_1bdcY&quot;]/div[@class=&quot;_3E4oM _3jIW4&quot;]/span[@class=&quot;_3_CAz _2QyqO _3jIW4&quot;]/div[@class=&quot;J0tZA&quot;]/img[@class=&quot;_3J9t8 fs-exclude&quot;]</value>
+      <webElementGuid>cbd9faab-0349-417f-a61e-ab80850f0cc3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[2]/div[11]/span/div/img</value>
+      <webElementGuid>60ed3349-9a87-4b2b-a8c5-083d75b8c60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/span/div/img</value>
+      <webElementGuid>15a7e1cd-b620-4aba-a2c0-cb38d4eb52d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '//simg-ssl.duolingo.com/avatar/default_2/medium']</value>
+      <webElementGuid>db05178a-763a-46c1-aa17-348dde460c51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualModeLoginW3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fab76cc-7a6e-458d-8415-9d460281a666</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3daff5b-a680-4f03-b98c-d945063dd3c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>892c5730-fc80-4cb5-8f59-8eb45cd6b155</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>299c349e-bffc-4846-894d-5fc1373032f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.w3schools.com/'</defaultValue>
+      <description></description>
+      <id>b3daff5b-a680-4f03-b98c-d945063dd3c7</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'rizkyadindaazizah@gmail.com'</defaultValue>
+      <description></description>
+      <id>892c5730-fc80-4cb5-8f59-8eb45cd6b155</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'cscccsiZjAysTXPoh3B3wA=='</defaultValue>
+      <description></description>
+      <id>299c349e-bffc-4846-894d-5fc1373032f8</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

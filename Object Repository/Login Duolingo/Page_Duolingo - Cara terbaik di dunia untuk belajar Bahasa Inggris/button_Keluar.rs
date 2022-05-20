@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Keluar</name>
+   <tag></tag>
+   <elementGuidId>70e4938e-39f3-45ac-810c-3d9187fcf105</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div[2]/div[11]/span/div[2]/div/div/button[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bb0a52e5-23ec-4116-b34a-e939807c563a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1H_R6 _1ZefG _1KF6e _3nQQr</value>
+      <webElementGuid>51643110-c24e-46d3-a0fa-cf6af82561b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>logout-button</value>
+      <webElementGuid>cf6dedb7-883d-4535-abd1-12e8b42a8200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keluar</value>
+      <webElementGuid>55857c12-5909-4a41-945a-7a3d06c1d07a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;_1kJpR _3g2C1&quot;]/div[@class=&quot;_1bdcY&quot;]/div[@class=&quot;_3E4oM _3jIW4&quot;]/span[@class=&quot;_3_CAz _2QyqO _3jIW4&quot;]/div[@class=&quot;_2O14B _2XlFZ _1v2Gj&quot;]/div[@class=&quot;_1KUxv&quot;]/div[@class=&quot;_1kT7V&quot;]/button[@class=&quot;_1H_R6 _1ZefG _1KF6e _3nQQr&quot;]</value>
+      <webElementGuid>bbd4bfd5-51e0-4823-9094-8c641c56d818</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div[2]/div[11]/span/div[2]/div/div/button[4]</value>
+      <webElementGuid>d5aacac2-855e-4cec-992d-b70f2960f46b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantuan'])[1]/following::button[1]</value>
+      <webElementGuid>aa141393-5a52-44d7-ab32-daf1f8f95280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengaturan'])[1]/following::button[2]</value>
+      <webElementGuid>7bdcdbbf-30a3-4e2a-81ed-7c18ba4fc753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buka Papan Skor!'])[1]/preceding::button[1]</value>
+      <webElementGuid>38f637b8-0e3d-43f9-90df-e7936600856f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[4]</value>
+      <webElementGuid>d841165d-d99f-43fc-9a95-94da82b962a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Keluar' or . = 'Keluar')]</value>
+      <webElementGuid>2b71f8e5-8d39-4c07-9434-90d1d24e4b50</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

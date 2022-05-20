@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ManualModeLoginGithub</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5218408f-0143-4589-9b45-8dfa2e0d8a43</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51dcd603-b615-4742-9aca-4abad659ec39</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cbfbadbd-00d2-4643-8cff-9f997a92dd34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>102cc116-d95a-4bb1-ad70-665894f72784</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://github.com/'</defaultValue>
+      <description></description>
+      <id>51dcd603-b615-4742-9aca-4abad659ec39</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+   <variable>
+      <defaultValue>'rizkyadindaazizah@gmail.com'</defaultValue>
+      <description></description>
+      <id>cbfbadbd-00d2-4643-8cff-9f997a92dd34</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'6YaGp2Fu22W9nc8DJEbIgg=='</defaultValue>
+      <description></description>
+      <id>102cc116-d95a-4bb1-ad70-665894f72784</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

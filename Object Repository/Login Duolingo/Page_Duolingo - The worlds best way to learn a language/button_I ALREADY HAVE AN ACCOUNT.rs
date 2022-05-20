@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_I ALREADY HAVE AN ACCOUNT</name>
+   <tag></tag>
+   <elementGuidId>ca0358bb-f6b9-4ace-a492-ce8bca6ca0cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/span/div/div/div[2]/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.WOZnx._275sd._1ZefG._3mSsk._32wa0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6bdb69e5-b3ff-4687-8362-c22897e30c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WOZnx _275sd _1ZefG _3mSsk _32wa0</value>
+      <webElementGuid>8a6a68ef-4f4e-4d3f-892c-0cd832cd0b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>have-account</value>
+      <webElementGuid>19fbcbad-90eb-402f-b13f-409f09db39e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I ALREADY HAVE AN ACCOUNT</value>
+      <webElementGuid>3f5a9e40-c9b5-45da-bda4-39a529162fe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;_2F5q9&quot;]/span[1]/div[@class=&quot;_1RQS6 _30_lR _2jDQw _1FMDq&quot;]/div[@class=&quot;_18cH1&quot;]/div[@class=&quot;_3wkBv&quot;]/div[@class=&quot;_3uMJF&quot;]/button[@class=&quot;WOZnx _275sd _1ZefG _3mSsk _32wa0&quot;]</value>
+      <webElementGuid>1efb3343-41ba-47f9-9025-2b5bacc37734</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/span/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>c92cbd6c-43b2-4187-8138-f7975e9fadb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get started'])[2]/following::button[1]</value>
+      <webElementGuid>f61cb19b-180a-4e7d-ab7e-99c54dc2ffd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The free, fun, and effective way to learn a language!'])[1]/following::button[1]</value>
+      <webElementGuid>2372a508-420f-4ce6-acd5-1f581fda33fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spanish'])[1]/preceding::button[1]</value>
+      <webElementGuid>a980a739-b61c-44bb-88be-c8073cd0cc61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>59b9aeb1-ff5e-44db-83e7-d4550f1f2bf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'I ALREADY HAVE AN ACCOUNT' or . = 'I ALREADY HAVE AN ACCOUNT')]</value>
+      <webElementGuid>389ccd00-8b03-4fc9-8caf-02a1999ca3b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
